@@ -16,7 +16,7 @@ A Streamlit app that estimates heart disease risk from patient vitals and sympto
 ## Setup
 
 ```bash
-git clone https://github.com/princegautam3612/HEART_DISEASE_PRIDICTOR.git
+git clone https://github.com/princegautam3612/HEART_DISEASE_PREDICTOR.git
 cd HEART_DISEASE_PRIDICTOR
 pip install -r requirements.txt
 streamlit run app.py
